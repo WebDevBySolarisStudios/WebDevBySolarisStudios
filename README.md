@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">
+  Hey there! 👋 I'm <span style="color:#4fc3f7;">Your Name</span>
+</h1>
 
-<!--
-**WebDevBySolarisStudios/WebDevBySolarisStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Freelance+eCommerce+Expert;Code.+Design.+Deploy." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+```js
+const fullStackDev = {
+  name: "Your Name",
+  title: "Full Stack Web Developer",
+  skills: ["React", "Node.js", "MongoDB", "Express", "Stripe", "Auth", "Speed Optimization"],
+  passion: "Building fast, scalable, and clean eCommerce solutions.",
+  freelancing: true,
+  availableForHire: true
+}
