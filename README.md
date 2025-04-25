@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there! 👋 I'm <span style="color:#4fc3f7;">Your Name</span>
+  Hey there! 👋 I'm <span style="color:#4fc3f7;">John Wilbury</span>
 </h1>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ```js
 const fullStackDev = {
-  name: "Your Name",
+  name: "John Wilbury",
   title: "Full Stack Web Developer",
-  skills: ["React", "Node.js", "MongoDB", "Express", "Stripe", "Auth", "Speed Optimization"],
+  skills: ["React", "Node.js", "MongoDB", "Express", "Stripe", "Auth", "Speed Optimization", "MailChimp],
   passion: "Building fast, scalable, and clean eCommerce solutions.",
   freelancing: true,
   availableForHire: true
